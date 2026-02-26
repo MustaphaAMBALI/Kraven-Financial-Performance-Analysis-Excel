@@ -103,3 +103,6 @@ Kraven-Financial-Performance-Analysis-Excel
 
 Mustapha Ambali
 Data Analyst
+
+## Dashboard Preview
+<img width="1630" height="1543" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/591c92d5-ea4e-4166-8d1c-90dd2ae8ae64" />
